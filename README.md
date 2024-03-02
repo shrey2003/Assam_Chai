@@ -44,7 +44,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 3. Start the development server
     ``` sh
     npm run dev
-```
+   ```
 ### Usage
 After starting the development server, you can access the website at http://localhost:5173 by default. Explore the various functionalities, including viewing products, adding items to your cart or wishlist, and navigating different sections of the site.
 
